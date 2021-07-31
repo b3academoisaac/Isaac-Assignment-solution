@@ -1,2 +1,2 @@
-# Isaac-modulo-2-solution
+# Isaac-assignment-solutions
 First Peer Assignment
